@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="67px" viewBox="0 0 68 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="会议管理首页" transform="translate(-573.000000, -194.000000)" fill-rule="nonzero">
+            <g id="Group-5" transform="translate(573.000000, 194.000000)">
+                <path d="M7,0 L61,0 C62.1045695,-2.02906125e-16 63,0.8954305 63,2 L63,64 C63,65.1045695 62.1045695,66 61,66 L7,66 C5.8954305,66 5,65.1045695 5,64 L5,2 C5,0.8954305 5.8954305,2.02906125e-16 7,0 Z" id="Rectangle" fill="#57BE62" opacity="0.600000024"></path>
+                <rect id="Rectangle" fill="#FFFFFF" x="28" y="33" width="12" height="4" rx="1"></rect>
+                <rect id="Rectangle-Copy" fill="#FFFFFF" x="26" y="21" width="16" height="4" rx="1"></rect>
+                <rect id="Rectangle-Copy" fill="#FFFFFF" x="22" y="9" width="24" height="4" rx="1"></rect>
+                <rect id="Rectangle-Copy" fill="#FFFFFF" x="22" y="46" width="24" height="4" rx="2"></rect>
+                <path d="M2,30 L21,30 C22.1045695,30 23,30.8954305 23,32 L23,44 C23,45.1045695 23.8954305,46 25,46 L43,46 C44.1045695,46 45,45.1045695 45,44 L45,32 C45,30.8954305 45.8954305,30 47,30 L66,30 C67.1045695,30 68,30.8954305 68,32 L68,65 C68,66.1045695 67.1045695,67 66,67 L2,67 C0.8954305,67 -9.22352849e-14,66.1045695 -9.23705556e-14,65 L-9.23705556e-14,32 C-9.25058264e-14,30.8954305 0.8954305,30 2,30 Z" id="Rectangle" fill="#57BE62"></path>
+            </g>
+        </g>
+    </g>
+</svg>

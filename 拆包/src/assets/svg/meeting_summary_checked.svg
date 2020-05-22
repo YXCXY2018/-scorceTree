@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="44px" viewBox="0 0 36 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5 Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-443.000000, -131.000000)" fill-rule="nonzero">
+            <g id="Group-5-Copy" transform="translate(439.000000, 131.000000)">
+                <rect id="Rectangle" x="0" y="0" width="44" height="44"></rect>
+                <g id="ic_待办_未选中" transform="translate(4.000000, 0.000000)">
+                    <path d="M3,1.5 C2.17157288,1.5 1.5,2.17157288 1.5,3 L1.5,41 C1.5,41.8284271 2.17157288,42.5 3,42.5 L33,42.5 C33.8284271,42.5 34.5,41.8284271 34.5,41 L34.5,10.7994177 C34.5,10.4040913 34.343938,10.0247477 34.0657472,9.74386904 L26.3409651,1.94445135 C26.0592572,1.66002171 25.6755422,1.5 25.2752179,1.5 L3,1.5 Z" id="Rectangle" stroke="#2979D0" stroke-width="3"></path>
+                    <rect id="Rectangle" fill="#2979D0" x="7" y="17" width="15" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle-Copy-3" fill="#2979D0" x="7" y="25" width="22" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle-Copy-4" fill="#2979D0" x="7" y="33" width="22" height="3" rx="1.5"></rect>
+                    <polyline id="Path-3" stroke="#2979D0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="24 2 24 12 34 12"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
